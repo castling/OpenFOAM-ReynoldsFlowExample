@@ -1,1 +1,2 @@
 # OpenFOAM-ReynoldsFlowExample
+OpenFOAMで円柱周りのReynolds流れを実行できる環境です。
