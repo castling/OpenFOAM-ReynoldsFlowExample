@@ -9,7 +9,7 @@
 forces
 {
     type            forceCoeffs;
-    libs            (forces);
+    libs            ("libforces.so");
     writeControl    timeStep;
     writeInterval   100;
 
