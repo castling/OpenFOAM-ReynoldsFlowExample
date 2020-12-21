@@ -33,14 +33,6 @@ geometry
         type triSurfaceMesh;
         name cylinder;
     }
-
-    // Analytical shape; cylinder, sphere
-    refinementBox
-    {
-        type box;
-        min  (-1.0 -0.7 0.0);
-        max  ( 8.0  0.7 2.5);
-    }
 }
 
 
